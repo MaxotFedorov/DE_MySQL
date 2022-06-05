@@ -1,0 +1,12 @@
+[
+  {
+    "file_path": "Cleaned_Laptop_data.parquet",
+    "hash_file_md5": "b11afe2ed5dad81f8e6fd2412be1ded4",
+    "hash_file_sha256": "7c0df1f9a7c94184ec1712e265b49caba9de8d3f7aa2143bcca9ca2da1fa5d79"
+  },
+  {
+    "file_path": "Laptop_Intel.parquet",
+    "hash_file_md5": "2142d8d452d904f8d9bfecaa5725066e",
+    "hash_file_sha256": "eb7e2155deb7a1a847e5959c611872493e4fa33f73a39d295f8de57a9ffc051c"
+  }
+]
